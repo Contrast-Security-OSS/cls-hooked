@@ -1,5 +1,5 @@
 {
-  "name": "cls-hooked",
+  "name": "@contrast/cls-hooked",
   "version": "4.3.1",
   "description": "CLS using AsyncWrap instead of async-listener - Node >= 4.7.0",
   "main": "index.js",
